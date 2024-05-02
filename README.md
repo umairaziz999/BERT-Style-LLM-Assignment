@@ -3,7 +3,6 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Fine-Tuning mBART-50 for English to Urdu Translation</title>
 </head>
 <body>
   <h1>Fine-Tuning mBART-50 for English to Urdu Translation</h1>
