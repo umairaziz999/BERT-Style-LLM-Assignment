@@ -19,8 +19,7 @@
       <pre><code>pip install accelerate -U</code></pre>
     </li>
     <li>Clone this repository:
-      <pre><code>git clone &lt;repository_url&gt;</code></pre>
-      <pre><code>cd &lt;repository_directory&gt;</code></pre>
+      <pre><code>git clone &lt;https://github.com/umairaziz999/BERT-Style-LLM-Assignment.git&gt;</code></pre>
     </li>
     <li>Run the notebook <code>LLM_Assignment.ipynb</code> in a Jupyter environment or any compatible environment.</li>
   </ol>
